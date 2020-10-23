@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Readers Advisory**, computer skills, *research databases*, **_Superior_ Customer Service**
